@@ -14,11 +14,13 @@ Aqui eu publico versões **didáticas e genéricas** do que aprendo, com exemplo
 
 Excel · Power Query · JavaScript · HTML e CSS · PowerShell · SheetJS · pdf-lib · LGPD na prática · IA (Claude Code)
 
+Estudando agora: Python, com a IA explicando cada linha e tudo conferido no Excel antes de usar.
+
 #### 📂 Projetos
 
 | Repositório | O que é |
 |---|---|
-| [excel-formulas-na-pratica](https://github.com/TTV98/excel-formulas-na-pratica) | Planilha com 8 aulas de fórmulas usadas em automação administrativa, mais o mini-curso em PDF |
+| [excel-formulas-na-pratica](https://github.com/TTV98/excel-formulas-na-pratica) | Planilha com 8 aulas de fórmulas usadas em automação administrativa, o mini-curso em PDF e uma aula extra sobre dias úteis e feriados |
 | [lgpd-e-seguranca-da-informacao](https://github.com/TTV98/lgpd-e-seguranca-da-informacao) | Apresentação de 24 slides, resumo e checklist sobre LGPD e segurança da informação na rotina administrativa |
 
 Próximos: exemplos em JavaScript, mini servidor local em PowerShell e um gerador de carrosséis em PDF.
