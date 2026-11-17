@@ -23,8 +23,9 @@ Estudando agora: Python, com a IA explicando cada linha e tudo conferido no Exce
 | [excel-formulas-na-pratica](https://github.com/TTV98/excel-formulas-na-pratica) | Planilha com 8 aulas de fórmulas usadas em automação administrativa, o mini-curso em PDF e uma aula extra sobre dias úteis e feriados |
 | [lgpd-e-seguranca-da-informacao](https://github.com/TTV98/lgpd-e-seguranca-da-informacao) | Apresentação de 24 slides, resumo e checklist sobre LGPD e segurança da informação na rotina administrativa |
 | [modulos-didaticos-js](https://github.com/TTV98/modulos-didaticos-js) | Cinco funções em JavaScript puro (valor por extenso, CPF, vencimento, vale-transporte e dias úteis) com 46 testes |
+| [mini-servidor-powershell](https://github.com/TTV98/mini-servidor-powershell) | Servidor local num arquivo só, com o PowerShell do Windows: mostra uma página e salva arquivos JSON com segurança, com 34 testes |
 
-Próximos: mini servidor local em PowerShell e um gerador de carrosséis em PDF.
+Próximo: um gerador de carrosséis em PDF.
 
 #### 📫 Contato
 
