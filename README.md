@@ -1,6 +1,6 @@
 ### Olá, eu sou o Lucas Terto 👋
 
-Sou **Assistente Administrativo com foco em Análise de Dados e Automação** e Pessoa com Deficiência (PcD).
+Sou **Analista de Automação de Processos e Análise de Dados** e Pessoa com Deficiência (PcD).
 
 No dia a dia, eu crio ferramentas que automatizam rotinas administrativas: leem planilhas, aplicam as regras do processo e geram relatórios e PDFs, tudo rodando no próprio computador, sem enviar dados para fora. Cada atividade que automatizei levava, em média, de 50 minutos a 2 horas de trabalho manual.
 
